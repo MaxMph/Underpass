@@ -1,0 +1,6 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://uasgmon0mv0g"]
+
+[ext_resource type="Texture2D" uid="uid://b421sv0ulx2d1" path="res://131_old wall brick PBR texture-seamless.jpg" id="1_7q7h2"]
+
+[resource]
+albedo_texture = ExtResource("1_7q7h2")
